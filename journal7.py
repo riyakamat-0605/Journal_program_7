@@ -18,7 +18,3 @@ average = total / len(scores) if scores else 0
 print("Sum:", total)
 print("Average:", average)
 
-max_score = max(scores)
-min_score = min(scores)
-print("Max:", max_score)
-print("Min:", min_score)
